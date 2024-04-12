@@ -149,11 +149,13 @@ input {
 .google-play-icon {
     width: 134px;
     height: 40px;
+    cursor: pointer;
 }
 
 .microsoft-icon {
     width: 110px;
     height: 40px;
+    cursor: pointer;
 }
 
 @media(max-width: 874px) {
