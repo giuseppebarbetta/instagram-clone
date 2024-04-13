@@ -1,6 +1,6 @@
 <body>
   <h1>Instagram Clone</h1>
-  <p>Este é um projeto de clone da interface do Instagram, desenvolvido com: Ele inclui uma simulação de login, alternância automática de imagens e botões fictícios para baixar o aplicativo em dispositivos Android e Windows.</p><br>
+  <p>Este é um projeto de clone da interface do Instagram, desenvolvido com: HTML, CSS e JavaScript. Ele inclui uma simulação de login, alternância automática de imagens e botões fictícios para baixar o aplicativo em dispositivos Android e Windows.</p><br>
 
   <h2>Funcionalidades</h2>
   <ul>
